@@ -4,7 +4,7 @@ This was based off Bill Roy’s [Ethernet shield Socket.IO](https://github.com/b
 
 Kevin's documentation is reproduced hereinafter, with changes as needed.
 
-**This library only works with Socket.IO versions 9.x.x and below. There was a change in the protocol that makes it difficult to communicate with the new server. Fixes coming soon.**
+**This library only works with Socket.IO versions 0.9.x and below. There was a change in the protocol that makes it difficult to communicate with the new server. Fixes coming soon.**
 
 
 ## Caveats
